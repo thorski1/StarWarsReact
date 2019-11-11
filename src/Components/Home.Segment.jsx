@@ -4,10 +4,14 @@ import { Segment, Header, Image } from "semantic-ui-react";
 const square = {
 	width: 375,
 	height: 375,
-	backgroundColor: "#F9D71C"
+	backgroundColor: "#F9D71C",
 };
 
-const imgSize = { width: 300, height: 300, border: "4px solid black" };
+const imgSize = {
+	width: 300,
+	height: 300,
+	border: "4px solid black"
+};
 
 const headerStyle = { color: "black", fontWeight: "bold" };
 

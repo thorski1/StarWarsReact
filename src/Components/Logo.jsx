@@ -5,9 +5,9 @@ export default class Logo extends Component {
 	render() {
 		return (
 			<Image
-				size="big"
+				size="huge"
 				src="assets/StarWarsLogo2.png"
-				style={{ margin: "auto", height: "560px"}}
+				style={{ margin: "auto", padding: "50px" }}
 			/>
 		);
 	}
